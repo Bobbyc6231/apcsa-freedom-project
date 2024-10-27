@@ -20,7 +20,7 @@
 * The Third Tutorial talked about adding behaviors then adding actions to the behavior, not exactly sure what that does and definetly goning to need more practice with that to gain a better understanding of adding actions
 
 ### 10/27/2024:
-* I learned how to add a joystick for mobile players however there was an issue with the app. With the G Develop App, I tried to drag the joystick onto the game and it wasn't working. I tried to check on [https://forum.gdevelop.io/t/i-cant-drag-and-place-objects/27920](gdevlop.io) a place for people to discuss things about GDevelop and people had the same issues. I then tried the GDevelop browser and it worked fine. To avoid future issues I think I will just stick to using the browser
+* I learned how to add a joystick for mobile players however there was an issue with the app. With the G Develop App, I tried to drag the joystick onto the game and it wasn't working. I tried to check on [gdevlop.io](https://forum.gdevelop.io/t/i-cant-drag-and-place-objects/27920) a place for people to discuss things about GDevelop and people had the same issues. I then tried the GDevelop browser and it worked fine. To avoid future issues I think I will just stick to using the browser
   
 * To add a Joystick
 1) You have to change the layer to be interface so the user can use it
