@@ -8,7 +8,7 @@
 ---
 
 ### 10/14/2024:
-* The fist thig I had to do was download G Devlop (I actually love the fact that this tool is a app because I get to store everything I make on it)
+* The first thing I had to do was download G Devlop (I actually love the fact that this tool is a app because I get to store everything I make on it)
 * At first it seemed pretty overwhelming, there was a lot of buttons and words everywhere not knowing what any of it does
 * I took a look at all of the different projects that were pre made and they were really cool because it allowed you to switch up the small things but the concepts stayed the same(Ex. A game where a character was running to collect coins, we could change the character or the obsticle but the goal to collect coins stayed the same)
 
