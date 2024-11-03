@@ -26,7 +26,7 @@ Overall I have gotten a pretty good start to learning about GDevelop and the nex
 
 ## EDP
 
-In the [Engineering Design Process](https://hstatsep.github.io/students/#edp), I am currently on the steps of **research** and **brainstorming**. I am researching and learning how to use GDevelop and expose myself to what this game engine can do. It has gone pretty well so far but there is still so much to explore. I am also looking at the components of what is provided and brainstorming what I can incorporate with my future Freedom Project.
+In the [Engineering Design Process](https://hstatsep.github.io/students/#edp), I am currently on the steps of **research** and **brainstorming**. I am researching and learning how to use GDevelop and expose myself to what this game engine can do. It has gone pretty well so far but there is still so much to explore. I am also looking at the components of what is provided and brainstorming what I can incorporate with my future Freedom Project. The next steps I will be focusing on is more **research** on what else GDevelop has as well as begging to **planning** what I want my final product to be like.
 
 ## Skills
 For this first blog entry, I have practiced the [skills](https://hstatsep.github.io/students/#skills) of **How to learn** as well as **time management**. I've never heard of GDevelop before and I have been practicing how to learn as I am trying to process what GDevelop is and become adjusted to their concepts. I am practicing time management as I have been on top of working on this project when I am supposed to be and have been making progress little by little.
@@ -36,5 +36,6 @@ For this first blog entry, I have practiced the [skills](https://hstatsep.github
 [Next](entry02.md)
 
 [Home](../README.md)
+
 
 
