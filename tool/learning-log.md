@@ -44,6 +44,15 @@
 
 * The next thing that I need to practice is how to create my own objects and own platforms
 
+### 11/17/2024
+
+* I learrned how to add health bars to characters
+* I tried to input different types of healthbars
+* It is just another premade thing just like a joystick
+* Learned multiplayer is just another behavior
+  * every characters host is different
+* Learned how to add texts and how you can add behaviors to it
+* Also discoved BB Text and Bitmap text
 
 
 <!-- 
