@@ -44,7 +44,7 @@
 
 * The next thing that I need to practice is how to create my own objects and own platforms
 
-### 11/17/2024
+### 11/18/2024
 
 * I learrned how to add health bars to characters
 * I tried to input different types of healthbars
