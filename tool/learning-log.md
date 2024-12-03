@@ -54,7 +54,12 @@
 * Learned how to add texts and how you can add behaviors to it
 * Also discoved BB Text and Bitmap text
 
+### 12/02/024
 
+* https://www.youtube.com/watch?v=XxeD_2nTyHI, This youtube link really simplified the concepts of GDevlop
+  * Some ideas might be
+    * A space person going up because the space theme is easy to design
+    * Another minecraft game 
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
