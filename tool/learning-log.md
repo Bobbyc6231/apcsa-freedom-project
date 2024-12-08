@@ -59,7 +59,13 @@
 * https://www.youtube.com/watch?v=XxeD_2nTyHI, This youtube link really simplified the concepts of GDevlop
   * Some ideas might be
     * A space person going up because the space theme is easy to design
-    * Another minecraft game 
+    * Another minecraft game
+   
+* Created my first ever project
+* Added over 100 premade objects
+* Added specific behaviors to player and the platforms
+* Need to figure out how to add it so that the player follows the platforms shape
+* Added healthbar to the scene
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
