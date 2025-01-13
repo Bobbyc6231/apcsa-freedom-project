@@ -77,6 +77,9 @@
   * Added my own image as a sprite and added it to the ground
 * Added multiple different backgrounds to make a mash up of different images
 
+* <img width="1086" alt="Screenshot 2025-01-13 at 12 08 47 AM" src="https://github.com/user-attachments/assets/6d22d894-25d0-4526-9b29-4a71cdb9a962" />
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
