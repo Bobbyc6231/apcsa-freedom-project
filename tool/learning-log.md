@@ -66,6 +66,17 @@
 * Added specific behaviors to player and the platforms
 * Need to figure out how to add it so that the player follows the platforms shape
 * Added healthbar to the scene
+
+
+### 01/10/2025
+<img width="1561" alt="Screenshot 2025-01-12 at 11 42 34 PM" src="https://github.com/user-attachments/assets/20c3c281-65f3-48dc-9ac1-d32e4f555631" />
+
+* Added more obsticles and characteristics to scene
+* Watched this video how to add my own background
+  * [Background tutorial](https://www.youtube.com/watch?v=u77YiWi338U)
+  * Added my own image as a sprite and added it to the ground
+* Added multiple different backgrounds to make a mash up of different images
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
