@@ -80,6 +80,17 @@
 * <img width="1086" alt="Screenshot 2025-01-13 at 12 08 47 AM" src="https://github.com/user-attachments/assets/6d22d894-25d0-4526-9b29-4a71cdb9a962" />
 
 
+### 02/02/2025
+<img width="364" alt="Screenshot 2025-02-02 at 11 02 07 PM" src="https://github.com/user-attachments/assets/1002cc7a-ff2f-48e4-9bfb-4320c01b65aa" />
+
+* Completely changed the entirety of the backgrounds because it seemed unorganized
+* Now that I have the platforms laid out the next step is to add the obsticles
+  * Monsters that have weapons
+  * Monsters that chace you
+  * Stationary weapons that can harm you if you touch them
+
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
