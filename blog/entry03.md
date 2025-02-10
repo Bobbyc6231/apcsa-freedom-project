@@ -24,8 +24,6 @@ Now the next step would be to add the different levels. I was sitting with my fr
 Now that I have added the platforms, the next thing that I will be attempting to do is going to be adding the difficulties for each level. I have some images in my head of what monsters and bosses will be added but they are still just ideas that I am unsure of and will give it more thought before fully committing to adding it to the game. 
 
 ## EDP
-
-## EDP
 In the [Engineering Design Process](https://hstatsep.github.io/students/#edp) I am currently on step 5 which is **Creating a prototype**. The game I am currently working on will become my final game one day. I have developed a decent layout and have started a good beginning to keep on building off of. The next step of the engineering design process that I will be working on is **testing the prototype**. I will have to make sure that all the obstacles work as planned and that the player is actually able to win the game meaning there are no difficulties that make the game unwinnable. 
 
 ## Skills
