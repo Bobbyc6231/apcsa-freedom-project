@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: GDevelop 
+## Product: A platformer game where the user has to collect items to win the game and there are different levels to the game 
 
 ---
 
@@ -9,13 +9,39 @@
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
+- [ ] Task: Finish Game (deadline: April 21st)
+      
+  - [ ] Finish first level (Complete by : March 1st)
+    - [ ] Put out the platforms (Complete by : February 2nd)
+    - [ ] Add the apple to be collected (Complete by : February 24th)
+       
+  - [ ] Finish Second Level (Complete by : March 15th)
+    - [ ] Add the orange to be collected (Complete by : March 3rd)
+    - [ ] Put creepers on each platform (Complete by : March 3rd)
+      - [ ] Add health to the creepers (Complete by : March 10th)
+    - [ ] Make the User be able to shoot the creepers (Complete by : March 10th)
+          
+  - [ ] Finish Third Level (Complete by : March 29th)
+    - [ ] Add the banana to be collected (Complete by : March 17th)
+    - [ ] Make it difficult for the user to get through the level (Complete by : March 24th)
+      - [ ] Do that by Creating different columns that the user has to climb through (Complete by : March 24th)
+          
+  - [ ] Finish Fourth Level (Complete by April 12th)
+    - [ ] Make a maze out of the platforms (Complete by : March 31st)
+      - [ ] Add the creepers in the maze (Complete by : April 7th)
+      - [ ] Add the Lemon to be collected (Complete by : April 7th)
+
+  - [ ] Last touches (Complete by April 19th)
+    - [ ] Add conditional so that when all 4 fruits (Apple, Orange, Banana, Lemon) are collected the User wins 
+  
 
 #### Beyond MVP
 
-- [ ] Task
-  - [ ] Subtask
+- [ ] Create Instructions to tell the user what to do in order to win
+- [ ] Potentially add another level
+- [ ] Add more monsters on the 2nd level
+- [ ] Put more items that need to be collected
+- [ ] Add more unique platforms
 
 
 <!-- EXAMPLE
@@ -59,3 +85,5 @@
 |   |   |
 
 -->
+
+
