@@ -89,6 +89,17 @@
   * Monsters that chace you
   * Stationary weapons that can harm you if you touch them
 
+### 02/24/2025
+ * I used this [link](https://wiki.gdevelop.io/gdevelop5/extensions/fire-bullet/details/?utm_source=gdevelop&utm_medium=help-link) to figure out how to add a item to the scene
+ * I also figured out how to make it so that when the player collides with the item, the item disapears
+ * Created a score to keep track of the amount of items that is collected
+
+(Before item is colleceted)
+ <img width="817" alt="Screenshot 2025-02-24 at 11 43 53 AM" src="https://github.com/user-attachments/assets/bcffea1f-9922-476d-b6b7-adaaca0dea36" />
+
+(After item is collected)
+<img width="741" alt="Screenshot 2025-02-24 at 11 47 17 AM" src="https://github.com/user-attachments/assets/78ad61f5-be92-4708-98d8-aff1ba08988f" />
+
 
 
 <!-- 
