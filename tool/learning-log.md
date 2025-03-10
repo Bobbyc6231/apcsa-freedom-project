@@ -105,8 +105,10 @@
   <img width="1554" alt="Screenshot 2025-03-10 at 12 30 12 AM" src="https://github.com/user-attachments/assets/37deef22-f36d-409c-aa89-ed6b3cff4cb9" />
   <img width="1128" alt="Screenshot 2025-03-10 at 12 31 14 AM" src="https://github.com/user-attachments/assets/d3d7a777-1ac4-4f94-ad1a-504b88e14015" />
 
-* 
+* Added the enemies to Level 2
+<img width="760" alt="Screenshot 2025-03-10 at 12 50 48 AM" src="https://github.com/user-attachments/assets/49500453-61b7-42cd-8b8e-af4e62d5a885" />
 
+* Have to add health to the enemies
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
