@@ -100,7 +100,12 @@
 (After item is collected)
 <img width="741" alt="Screenshot 2025-02-24 at 11 47 17 AM" src="https://github.com/user-attachments/assets/78ad61f5-be92-4708-98d8-aff1ba08988f" />
 
+### 03/03/2025
+* I have now gotten used with the proces of adding events to the scene so much so that I was able to add the orange to the next level (including it being deleted when the player interacts with it) without looking at any tutorials
+  <img width="1554" alt="Screenshot 2025-03-10 at 12 30 12 AM" src="https://github.com/user-attachments/assets/37deef22-f36d-409c-aa89-ed6b3cff4cb9" />
+  <img width="1128" alt="Screenshot 2025-03-10 at 12 31 14 AM" src="https://github.com/user-attachments/assets/d3d7a777-1ac4-4f94-ad1a-504b88e14015" />
 
+* 
 
 <!-- 
 * Links you used today (websites, videos, etc)
