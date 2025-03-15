@@ -18,6 +18,8 @@ To do that I had to add an event and action to the scene which is the same as ad
 
 I also had to create a variable to hold the value of the amount of fruits collected.
 
+
+
 I began getting used to the process of adding events and actions to the scene so much so that I was able to add the orange to the next level (including it being deleted when the player interacts with it and it increasing the variable that is holding the amount of fruits collected) without looking at any tutorials. 
 
 
