@@ -24,9 +24,11 @@ I began getting used to the process of adding events and actions to the scene so
 The last thing I did was add the enemies and added some movement to them to the second level. To do this I followed this [tutorial](https://wiki.gdevelop.io/gdevelop5/tutorials/platformer/part-6/). It included more events and actions (conditionals),
 
 (The events and actions)
+
 <img width="802" alt="Screenshot 2025-03-15 at 12 20 29 PM" src="https://github.com/user-attachments/assets/c81204a9-6f88-4c68-95cf-d4e27ef4c55c" />
 
 (The enemies in the second level)
+
 <img width="760" alt="Screenshot 2025-03-10 at 12 50 48 AM" src="https://github.com/user-attachments/assets/49500453-61b7-42cd-8b8e-af4e62d5a885" />
 
 Now I will be working on trying to add health to the enemies and make it so that the player can somehow do damage to the enemies and that the enemies can do damage to the player. I will try to make it so that the player has three hit points meaning they can only be hit three times before having to restart. I will try to make it so that the player has a blaster that can be used to destroy the enemies. 
