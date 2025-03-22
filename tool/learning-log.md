@@ -109,6 +109,27 @@
 <img width="760" alt="Screenshot 2025-03-10 at 12 50 48 AM" src="https://github.com/user-attachments/assets/49500453-61b7-42cd-8b8e-af4e62d5a885" />
 
 * Have to add health to the enemies
+
+### 03/22/2025
+
+* I have learned how to add movement to the enemies
+  * The way I learned was I followed this [tutorial](https://wiki.gdevelop.io/gdevelop5/tutorials/platformer/part-6/#step-1-create-an-object-for-the-enemy)
+  * I had to add more events and actions to the scene
+  * <img width="1202" alt="Screenshot 2025-03-22 at 2 19 35 PM" src="https://github.com/user-attachments/assets/daf79b72-8ef3-4dbf-810c-68eb4badefe4" />
+  * I added events so that the enemy would begin moving to the right once the player begins to play
+  * I had to add a object to the scene so that once the enemy bumps into the object, it will flip directions and go in the other direction
+
+* An issue I have is that once the enemy bumps into the object, it will switch directions, but it won't move which is an error I will have to fix
+
+(Before enemy bumps into object)
+
+<img width="1210" alt="Screenshot 2025-03-22 at 2 23 42 PM" src="https://github.com/user-attachments/assets/e6de53a1-715b-4abb-8c9b-9ac322144a02" />
+
+(After enemy bumps into object)
+
+<img width="1255" alt="Screenshot 2025-03-22 at 2 24 28 PM" src="https://github.com/user-attachments/assets/85092289-00f8-4e99-9aef-a7574652f7d4" />
+
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
