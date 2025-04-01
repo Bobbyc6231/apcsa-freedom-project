@@ -129,6 +129,19 @@
 
 <img width="1255" alt="Screenshot 2025-03-22 at 2 24 28 PM" src="https://github.com/user-attachments/assets/85092289-00f8-4e99-9aef-a7574652f7d4" />
 
+### 03/30/2025
+
+* I attempted to fix the issue of once the enemy bumps into the object that it will switch directions and move by trying different conditionals but nothing worked
+* What I did do was I just hid the object that would make the enemy switch dirctions
+  * I had to add a condition so that at the beginning of the scene, it is hidden
+  * <img width="606" alt="Screenshot 2025-03-31 at 9 21 48 PM" src="https://github.com/user-attachments/assets/69301ca0-1de7-4489-9653-f395585a1de2" />
+
+* I also added it for every platform on level two
+* <img width="532" alt="Screenshot 2025-03-31 at 9 23 03 PM" src="https://github.com/user-attachments/assets/af2ceb1f-a075-49f7-9a80-0109e9b95411" />
+
+
+
+  
 
 <!-- 
 * Links you used today (websites, videos, etc)
