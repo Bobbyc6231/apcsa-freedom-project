@@ -4,7 +4,13 @@
 ## Content
 I have finished my minimum viable product and have added significantly to the game. 
 
-The first thing that I wanted to focus on was making it so that the enemy would move back and forth. The way that I did that was I had to add conditionals so that when the enemy would reach certain objects that they would switch directions and head in the opposite direction so that they would be able to go back and forth,
+I added one more fruit for the player to collect. I added a bannana and just like the other fruits in the game, it would change the variable `score` to add one when the player came into contact with it.
+<br/> <br/>
+<img width="685" alt="Screenshot 2025-04-25 at 2 54 58 PM" src="https://github.com/user-attachments/assets/8e69a92e-d86d-4be2-8027-5a46601de663" />
+<br/> <br/>
+<img width="557" alt="Screenshot 2025-04-25 at 2 55 35 PM" src="https://github.com/user-attachments/assets/c0b2560a-2a01-4bba-a0f0-6a571520876e" />
+<br/> <br/>
+The next thing that I wanted to focus on was making it so that the enemy would move back and forth. The way that I did that was I had to add conditionals so that when the enemy would reach certain objects that they would switch directions and head in the opposite direction so that they would be able to go back and forth,
 <br/> <br/>
 <img width="767" alt="Screenshot 2025-04-25 at 2 16 34 PM" src="https://github.com/user-attachments/assets/f4ace172-8dff-4d6f-965f-6ff28af7c321" />
     
@@ -26,14 +32,25 @@ I then added a condition that I found on [this website](https://wiki.gdevelop.io
 <img width="727" alt="Screenshot 2025-04-25 at 2 27 43 PM" src="https://github.com/user-attachments/assets/b8866305-8ef4-460b-a3ec-eebbdc5af9fc" />
 <br/> <br/>
 I had to create different scenes that the player would see if they would die or win. So I created two more scenes, the winning scene and the dead scene,
+
+<img width="305" alt="Screenshot 2025-04-25 at 2 44 34 PM" src="https://github.com/user-attachments/assets/540f7479-f675-4667-97de-6c5a842de70d" />
+
 <br/> <br/>
-(Losing scene, when the player would die due to making contact with the enemy)
+(Dead scene, when the player would die due to making contact with the enemy)
 <img width="699" alt="Screenshot 2025-04-25 at 2 33 37 PM" src="https://github.com/user-attachments/assets/ffe5c6a8-cb78-4563-a96f-62466392edc7" />
 <br/> <br/>
 <br/> <br/>
 (Winning scene, when the player would collect all the fruits)
 <img width="695" alt="Screenshot 2025-04-25 at 2 35 20 PM" src="https://github.com/user-attachments/assets/aebfd3dd-62cb-42da-b578-9b19e0eea402" />
 <br/> <br/>
+
+To make the scene change throughout the game, all I did was add some conditionals so that when the player would touch the enemy, it would switch to the Dead scene,
+<img width="641" alt="Screenshot 2025-04-25 at 2 47 15 PM" src="https://github.com/user-attachments/assets/7eef546a-f12d-4c2c-9972-90992767b11a" />
+
+And when the player collected all three fruits, the global variable `score` would be three and so I made it so that when the `score` variable had the value of 3, the scene would switch to the winning scene,
+
+<img width="695" alt="Screenshot 2025-04-25 at 2 48 49 PM" src="https://github.com/user-attachments/assets/db5dae26-fca7-40e0-93cf-07e4a561826b" />
+
 
 
 
