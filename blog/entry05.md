@@ -4,12 +4,15 @@
 ## Content
 I have finished my minimum viable product and have added significantly to the game. 
 
+### Adding one more object to collect
 I added one more fruit for the player to collect. I added a bannana and just like the other fruits in the game, it would change the variable `score` to add one when the player came into contact with it.
 <br/> <br/>
 <img width="685" alt="Screenshot 2025-04-25 at 2 54 58 PM" src="https://github.com/user-attachments/assets/8e69a92e-d86d-4be2-8027-5a46601de663" />
 <br/> <br/>
 <img width="557" alt="Screenshot 2025-04-25 at 2 55 35 PM" src="https://github.com/user-attachments/assets/c0b2560a-2a01-4bba-a0f0-6a571520876e" />
 <br/> <br/>
+
+### Enemy movement
 The next thing that I wanted to focus on was making it so that the enemy would move back and forth. The way that I did that was I had to add conditionals so that when the enemy would reach certain objects that they would switch directions and head in the opposite direction so that they would be able to go back and forth,
 <br/> <br/>
 <img width="767" alt="Screenshot 2025-04-25 at 2 16 34 PM" src="https://github.com/user-attachments/assets/f4ace172-8dff-4d6f-965f-6ff28af7c321" />
@@ -27,10 +30,14 @@ Now the enemy would go back and forth,
 <br/> <br/>
 <img width="1051" alt="Screenshot 2025-04-25 at 2 24 39 PM" src="https://github.com/user-attachments/assets/83d2754f-703f-4849-bfa6-32c08864137e" />
 <br/> <br/>
+
+### Enemy damage
 I then added a condition that I found on [this website](https://wiki.gdevelop.io/gdevelop5/tutorials/platformer/part-7/#step-2-kill-the-enemy) that would help me figure out how to make it so that the enemy would kill the user if the user came into contact with the enemy. 
 <br/> <br/>
 <img width="727" alt="Screenshot 2025-04-25 at 2 27 43 PM" src="https://github.com/user-attachments/assets/b8866305-8ef4-460b-a3ec-eebbdc5af9fc" />
 <br/> <br/>
+
+### Adding multiple scenes and changing between scenes
 I had to create different scenes that the player would see if they would die or win. So I created two more scenes, the winning scene and the dead scene,
 
 <img width="305" alt="Screenshot 2025-04-25 at 2 44 34 PM" src="https://github.com/user-attachments/assets/540f7479-f675-4667-97de-6c5a842de70d" />
@@ -51,7 +58,12 @@ And when the player collected all three fruits, the global variable `score` woul
 
 <img width="695" alt="Screenshot 2025-04-25 at 2 48 49 PM" src="https://github.com/user-attachments/assets/db5dae26-fca7-40e0-93cf-07e4a561826b" />
 
+### Changing physics of the game
+The last thing that I added was conditionals so that when the player would collect the fruits, that the players physics would change. For the apple, I changed it so that the player could jump higher and for the orange I made it so the player can't jump as high,
 
+<img width="768" alt="Screenshot 2025-04-25 at 2 59 40 PM" src="https://github.com/user-attachments/assets/45d7e796-83ce-4fb6-9220-e8bc1593e761" />
+
+<img width="768" alt="Screenshot 2025-04-25 at 3 00 20 PM" src="https://github.com/user-attachments/assets/c6feaa36-f092-4b38-b63a-05119135c925" />
 
 
 
