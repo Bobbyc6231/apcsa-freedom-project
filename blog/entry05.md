@@ -6,7 +6,9 @@ I have finished my minimum viable product and have added significantly to the ga
 
 The first thing that I wanted to focus on was making it so that the enemy would move back and forth. The way that I did that was I had to add conditionals so that when the enemy would reach certain objects that they would switch directions and head in the opposite direction so that they would be able to go back and forth,
 
+
 <img width="767" alt="Screenshot 2025-04-25 at 2 16 34 PM" src="https://github.com/user-attachments/assets/f4ace172-8dff-4d6f-965f-6ff28af7c321" />
+
 
 I made it so that when the enemy would make contact with a lamp, the variable `direction` they had would switch to the value of, `left`. After that I made it so that when the enemy's variable had that value, that they would have a force to make them go left,
 
