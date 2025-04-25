@@ -5,7 +5,7 @@
 I have finished my minimum viable product and have added significantly to the game. 
 
 The first thing that I wanted to focus on was making it so that the enemy would move back and forth. The way that I did that was I had to add conditionals so that when the enemy would reach certain objects that they would switch directions and head in the opposite direction so that they would be able to go back and forth,
-    
+
 <img width="767" alt="Screenshot 2025-04-25 at 2 16 34 PM" src="https://github.com/user-attachments/assets/f4ace172-8dff-4d6f-965f-6ff28af7c321" />
 
     
@@ -35,6 +35,8 @@ I had to create different scenes that the player would see if they would die or 
       
 (Winning scene, when the player would collect all the fruits)
 <img width="695" alt="Screenshot 2025-04-25 at 2 35 20 PM" src="https://github.com/user-attachments/assets/aebfd3dd-62cb-42da-b578-9b19e0eea402" />
+
+
 
 
 ## EDP
