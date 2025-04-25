@@ -15,8 +15,6 @@ I made it so that when the enemy would make contact with a lamp, the variable `d
 Now when the enemy hits a lamp, they will go towards the left. Now I needed to make it so that the enemy would go back towards the right. To do that I added houses and when the enemy would bump into a house, the `direction` variable would have the value of `right` and then added the condition that if the value of `direction` is `right`, that the player would have a force pushing the enemy towards the right.
 <br/> <br/>
 <img width="775" alt="Screenshot 2025-04-25 at 2 23 41 PM" src="https://github.com/user-attachments/assets/b327bbe9-ed46-4bcb-a715-cfd716c9fec7" />
-<br/> <br/>
-<br/> <br/>
 <img width="781" alt="Screenshot 2025-04-25 at 2 23 52 PM" src="https://github.com/user-attachments/assets/2485acbb-b471-443a-9906-f452b47d1b15" />
 <br/> <br/>
 Now the enemy would go back and forth,
