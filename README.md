@@ -4,7 +4,7 @@ by **Bobby Chan**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for AP Computer Science A is a year-long project all about making anything using technology.
 
-For my project, I chose to independently study **[GDevelop](https://gdevelop.io/)** in order to help me make **A platformer game where a character must avoid enemies while collecting fruits in order to win**.
+For my project, I chose to independently study **[GDevelop](https://gdevelop.io/)** in order to help me make **a platformer game where a character must avoid enemies while collecting fruits in order to win**.
 
 ## Links
 
